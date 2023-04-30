@@ -1,6 +1,6 @@
 # Offden Chat
 
-https://app.offden.chat
+[https://app.offden.chat](https://app.offden.chat)
 
 ## Command-comman Deniable Encryption
 Command untuk deniable encryption diketik pada fitur pencarian kontak (tombol tanda panah di bagian kiri atas).
