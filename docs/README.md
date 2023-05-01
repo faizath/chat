@@ -27,9 +27,9 @@ Command untuk deniable encryption diketik pada fitur pencarian kontak (tombol ta
 
 ## Penjelasan Teknis Deniable Encryption
 
-![https://en.wikipedia.org/wiki/Advanced_Encryption_Standard](https://raw.githubusercontent.com/faizath/chat/docs/docs/AES.png)
+[![Advanced Encryption Standard](https://raw.githubusercontent.com/faizath/chat/docs/docs/AES.png)](https://en.wikipedia.org/wiki/Advanced_Encryption_Standard)
 
-![https://en.wikipedia.org/wiki/Deniable_encryption](https://raw.githubusercontent.com/faizath/chat/docs/docs/Screenshot%20(37).png)
+[![Deniable Encryption](https://raw.githubusercontent.com/faizath/chat/docs/docs/Screenshot%20(37).png)](https://en.wikipedia.org/wiki/Deniable_encryption)
 
 Misal baris 1 itu ciphertext, baris 2 itu index dari karakter ciphertext diatasnya, dan sebuah partisi memiliki 8 karakter. Terdapat sebuah partisi pada index 5-12 (9dab6218). Sisa katrakter diluar partisi tersebut adalah karakter random.
 
